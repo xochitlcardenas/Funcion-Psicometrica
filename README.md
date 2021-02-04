@@ -1,5 +1,5 @@
 # Funcion-Psicometrica
 
 
-shiny: :runGitHub('Funcion-Psicometrica-ShinyApp', 'xochitlcardenas')
+shiny: :runGitHub('FuncionPsicometrica', 'xochitlcardenas')
 
